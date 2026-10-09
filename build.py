@@ -154,6 +154,7 @@ def shell(title, base, band_html, main_html, footer_html=""):
 <title>{esc(title)}</title>
 <link rel="preload" href="{base}assets/fonts/source-serif-4-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="{base}assets/fonts/playfair-display-latin-900-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{base}assets/fonts/oswald-latin-500-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="{base}assets/site.css?v={CSS_VER}">
 </head>
 <body>
